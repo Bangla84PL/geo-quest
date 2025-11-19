@@ -1,0 +1,4402 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-19",
+  "questions": [
+    {
+      "id": "q001",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of France?",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Madrid"
+      ],
+      "correctAnswer": "Paris",
+      "explanation": "Paris has been the capital of France since 987 AD.",
+      "targetLocation": {
+        "lat": 48.8566,
+        "lon": 2.3522
+      }
+    },
+    {
+      "id": "q002",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Japan?",
+      "options": [
+        "Tokyo",
+        "Seoul",
+        "Beijing",
+        "Bangkok"
+      ],
+      "correctAnswer": "Tokyo",
+      "explanation": "Tokyo is the capital and most populous city of Japan.",
+      "targetLocation": {
+        "lat": 35.6762,
+        "lon": 139.6503
+      }
+    },
+    {
+      "id": "q003",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of the United States?",
+      "options": [
+        "New York",
+        "Washington D.C.",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "correctAnswer": "Washington D.C.",
+      "explanation": "Washington D.C. has been the capital since 1800.",
+      "targetLocation": {
+        "lat": 38.9072,
+        "lon": -77.0369
+      }
+    },
+    {
+      "id": "q004",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Germany?",
+      "options": [
+        "Munich",
+        "Hamburg",
+        "Berlin",
+        "Frankfurt"
+      ],
+      "correctAnswer": "Berlin",
+      "explanation": "Berlin has been the capital of unified Germany since 1990.",
+      "targetLocation": {
+        "lat": 52.52,
+        "lon": 13.405
+      }
+    },
+    {
+      "id": "q005",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Italy?",
+      "options": [
+        "Milan",
+        "Rome",
+        "Venice",
+        "Florence"
+      ],
+      "correctAnswer": "Rome",
+      "explanation": "Rome, the Eternal City, has been the capital since 1871.",
+      "targetLocation": {
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
+    },
+    {
+      "id": "q006",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "correctAnswer": "Canberra",
+      "explanation": "Canberra is the purpose-built capital, chosen as a compromise between Sydney and Melbourne.",
+      "targetLocation": {
+        "lat": -35.2809,
+        "lon": 149.13
+      }
+    },
+    {
+      "id": "q007",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctAnswer": "Ottawa",
+      "explanation": "Ottawa became the capital in 1857, chosen by Queen Victoria.",
+      "targetLocation": {
+        "lat": 45.4215,
+        "lon": -75.6972
+      }
+    },
+    {
+      "id": "q008",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Brazil?",
+      "options": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Brasília",
+        "Salvador"
+      ],
+      "correctAnswer": "Brasília",
+      "explanation": "Brasília was purpose-built and became the capital in 1960.",
+      "targetLocation": {
+        "lat": -15.8267,
+        "lon": -47.9218
+      }
+    },
+    {
+      "id": "q009",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Kazakhstan?",
+      "options": [
+        "Almaty",
+        "Astana",
+        "Shymkent",
+        "Aktobe"
+      ],
+      "correctAnswer": "Astana",
+      "explanation": "Astana (formerly Nur-Sultan) became the capital in 1997, replacing Almaty.",
+      "targetLocation": {
+        "lat": 51.1694,
+        "lon": 71.4491
+      }
+    },
+    {
+      "id": "q010",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Myanmar?",
+      "options": [
+        "Yangon",
+        "Naypyidaw",
+        "Mandalay",
+        "Bagan"
+      ],
+      "correctAnswer": "Naypyidaw",
+      "explanation": "Naypyidaw became the capital in 2006, replacing Yangon.",
+      "targetLocation": {
+        "lat": 19.7633,
+        "lon": 96.0785
+      }
+    },
+    {
+      "id": "q011",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Spain?",
+      "options": [
+        "Barcelona",
+        "Madrid",
+        "Seville",
+        "Valencia"
+      ],
+      "correctAnswer": "Madrid",
+      "explanation": "Madrid is both the capital and the largest city of Spain.",
+      "targetLocation": {
+        "lat": 40.4168,
+        "lon": -3.7038
+      }
+    },
+    {
+      "id": "q012",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Russia?",
+      "options": [
+        "Moscow",
+        "St. Petersburg",
+        "Kazan",
+        "Novosibirsk"
+      ],
+      "correctAnswer": "Moscow",
+      "explanation": "Moscow is the capital and largest city of Russia.",
+      "targetLocation": {
+        "lat": 55.7558,
+        "lon": 37.6173
+      }
+    },
+    {
+      "id": "q013",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of China?",
+      "options": [
+        "Shanghai",
+        "Hong Kong",
+        "Beijing",
+        "Guangzhou"
+      ],
+      "correctAnswer": "Beijing",
+      "explanation": "Beijing has been the capital of China for most of the past 800 years.",
+      "targetLocation": {
+        "lat": 39.9042,
+        "lon": 116.4074
+      }
+    },
+    {
+      "id": "q014",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of India?",
+      "options": [
+        "Mumbai",
+        "Bangalore",
+        "New Delhi",
+        "Kolkata"
+      ],
+      "correctAnswer": "New Delhi",
+      "explanation": "New Delhi is the capital of India, established in 1931.",
+      "targetLocation": {
+        "lat": 28.6139,
+        "lon": 77.209
+      }
+    },
+    {
+      "id": "q015",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Egypt?",
+      "options": [
+        "Alexandria",
+        "Cairo",
+        "Giza",
+        "Luxor"
+      ],
+      "correctAnswer": "Cairo",
+      "explanation": "Cairo, one of the world's oldest cities, is the capital of Egypt.",
+      "targetLocation": {
+        "lat": 30.0444,
+        "lon": 31.2357
+      }
+    },
+    {
+      "id": "q016",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Turkey?",
+      "options": [
+        "Istanbul",
+        "Ankara",
+        "Izmir",
+        "Antalya"
+      ],
+      "correctAnswer": "Ankara",
+      "explanation": "Ankara became the capital in 1923, replacing Istanbul.",
+      "targetLocation": {
+        "lat": 39.9334,
+        "lon": 32.8597
+      }
+    },
+    {
+      "id": "q017",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of the United Kingdom?",
+      "options": [
+        "Manchester",
+        "Birmingham",
+        "London",
+        "Edinburgh"
+      ],
+      "correctAnswer": "London",
+      "explanation": "London has been England's capital since the 11th century.",
+      "targetLocation": {
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "q018",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Switzerland?",
+      "options": [
+        "Zurich",
+        "Geneva",
+        "Bern",
+        "Basel"
+      ],
+      "correctAnswer": "Bern",
+      "explanation": "Bern has been the de facto capital since 1848.",
+      "targetLocation": {
+        "lat": 46.948,
+        "lon": 7.4474
+      }
+    },
+    {
+      "id": "q019",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Poland?",
+      "options": [
+        "Kraków",
+        "Warsaw",
+        "Gdańsk",
+        "Wrocław"
+      ],
+      "correctAnswer": "Warsaw",
+      "explanation": "Warsaw has been the capital since 1596.",
+      "targetLocation": {
+        "lat": 52.2297,
+        "lon": 21.0122
+      }
+    },
+    {
+      "id": "q020",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Greece?",
+      "options": [
+        "Thessaloniki",
+        "Athens",
+        "Patras",
+        "Heraklion"
+      ],
+      "correctAnswer": "Athens",
+      "explanation": "Athens is the historic capital of Greece, named after the goddess Athena.",
+      "targetLocation": {
+        "lat": 37.9838,
+        "lon": 23.7275
+      }
+    },
+    {
+      "id": "q021",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "New York is the capital of the United States.",
+      "correctAnswer": "false",
+      "explanation": "Washington D.C. is the capital, not New York.",
+      "targetLocation": {
+        "lat": 40.7128,
+        "lon": -74.006
+      }
+    },
+    {
+      "id": "q022",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Dublin is the capital of Ireland.",
+      "correctAnswer": "true",
+      "explanation": "Dublin has been the capital of Ireland since medieval times.",
+      "targetLocation": {
+        "lat": 53.3498,
+        "lon": -6.2603
+      }
+    },
+    {
+      "id": "q023",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "Sydney is the capital of Australia.",
+      "correctAnswer": "false",
+      "explanation": "Canberra is the capital, not Sydney.",
+      "targetLocation": {
+        "lat": -33.8688,
+        "lon": 151.2093
+      }
+    },
+    {
+      "id": "q024",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "Pretoria is one of the capitals of South Africa.",
+      "correctAnswer": "true",
+      "explanation": "South Africa has three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial).",
+      "targetLocation": {
+        "lat": -25.7479,
+        "lon": 28.2293
+      }
+    },
+    {
+      "id": "q025",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Argentina?",
+      "options": [
+        "Córdoba",
+        "Rosario",
+        "Buenos Aires",
+        "Mendoza"
+      ],
+      "correctAnswer": "Buenos Aires",
+      "explanation": "Buenos Aires is the capital and largest city of Argentina.",
+      "targetLocation": {
+        "lat": -34.6037,
+        "lon": -58.3816
+      }
+    },
+    {
+      "id": "q026",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is known as the Big Apple?",
+      "options": [
+        "Los Angeles",
+        "Chicago",
+        "New York",
+        "Boston"
+      ],
+      "correctAnswer": "New York",
+      "explanation": "New York City earned the nickname 'Big Apple' in the 1920s.",
+      "targetLocation": {
+        "lat": 40.7128,
+        "lon": -74.006
+      }
+    },
+    {
+      "id": "q027",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is home to the Eiffel Tower?",
+      "options": [
+        "London",
+        "Paris",
+        "Rome",
+        "Berlin"
+      ],
+      "correctAnswer": "Paris",
+      "explanation": "The Eiffel Tower was built in Paris for the 1889 World's Fair.",
+      "targetLocation": {
+        "lat": 48.8584,
+        "lon": 2.2945
+      }
+    },
+    {
+      "id": "q028",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city was formerly known as Constantinople?",
+      "options": [
+        "Athens",
+        "Istanbul",
+        "Ankara",
+        "Cairo"
+      ],
+      "correctAnswer": "Istanbul",
+      "explanation": "Constantinople was renamed Istanbul in 1930.",
+      "targetLocation": {
+        "lat": 41.0082,
+        "lon": 28.9784
+      }
+    },
+    {
+      "id": "q029",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "cities",
+      "question": "Which city is built on 14 islands?",
+      "options": [
+        "Venice",
+        "Amsterdam",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "correctAnswer": "Stockholm",
+      "explanation": "Stockholm, the capital of Sweden, is built on 14 islands.",
+      "targetLocation": {
+        "lat": 59.3293,
+        "lon": 18.0686
+      }
+    },
+    {
+      "id": "q030",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "mountains",
+      "question": "What is the highest mountain in the world?",
+      "options": [
+        "K2",
+        "Mount Everest",
+        "Kilimanjaro",
+        "Denali"
+      ],
+      "correctAnswer": "Mount Everest",
+      "explanation": "Mount Everest stands at 8,849 meters (29,032 feet).",
+      "targetLocation": {
+        "lat": 27.9881,
+        "lon": 86.925
+      }
+    },
+    {
+      "id": "q031",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "mountains",
+      "question": "In which mountain range is Mount Everest located?",
+      "options": [
+        "Andes",
+        "Himalayas",
+        "Alps",
+        "Rockies"
+      ],
+      "correctAnswer": "Himalayas",
+      "explanation": "Mount Everest is part of the Himalayan mountain range.",
+      "targetLocation": {
+        "lat": 27.9881,
+        "lon": 86.925
+      }
+    },
+    {
+      "id": "q032",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "mountains",
+      "question": "What is the highest mountain in Africa?",
+      "options": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Mount Stanley",
+        "Atlas Mountains"
+      ],
+      "correctAnswer": "Mount Kilimanjaro",
+      "explanation": "Mount Kilimanjaro in Tanzania stands at 5,895 meters.",
+      "targetLocation": {
+        "lat": -3.0674,
+        "lon": 37.3556
+      }
+    },
+    {
+      "id": "q033",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "rivers",
+      "question": "Which is the longest river in the world?",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correctAnswer": "Nile",
+      "explanation": "The Nile River is approximately 6,650 km long.",
+      "targetLocation": {
+        "lat": 29.5336,
+        "lon": 31.2794
+      }
+    },
+    {
+      "id": "q034",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Which river flows through Paris?",
+      "options": [
+        "Thames",
+        "Rhine",
+        "Seine",
+        "Loire"
+      ],
+      "correctAnswer": "Seine",
+      "explanation": "The Seine River divides Paris into the Left and Right Banks.",
+      "targetLocation": {
+        "lat": 48.8566,
+        "lon": 2.3522
+      }
+    },
+    {
+      "id": "q035",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Which river flows through London?",
+      "options": [
+        "Thames",
+        "Severn",
+        "Trent",
+        "Mersey"
+      ],
+      "correctAnswer": "Thames",
+      "explanation": "The River Thames is London's iconic waterway.",
+      "targetLocation": {
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "q036",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "geographic-regions",
+      "question": "Which desert is the largest in the world?",
+      "options": [
+        "Sahara",
+        "Arabian",
+        "Antarctic",
+        "Gobi"
+      ],
+      "correctAnswer": "Antarctic",
+      "explanation": "The Antarctic Desert is technically the world's largest desert.",
+      "targetLocation": {
+        "lat": -82.8628,
+        "lon": 135.0
+      }
+    },
+    {
+      "id": "q037",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "geographic-regions",
+      "question": "What is the largest hot desert in the world?",
+      "options": [
+        "Arabian",
+        "Sahara",
+        "Kalahari",
+        "Sonoran"
+      ],
+      "correctAnswer": "Sahara",
+      "explanation": "The Sahara Desert covers about 9 million square kilometers.",
+      "targetLocation": {
+        "lat": 23.4162,
+        "lon": 25.6628
+      }
+    },
+    {
+      "id": "q038",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "Which country has the most time zones?",
+      "options": [
+        "USA",
+        "Russia",
+        "France",
+        "China"
+      ],
+      "correctAnswer": "France",
+      "explanation": "France has 12 time zones due to its overseas territories.",
+      "targetLocation": {
+        "lat": 46.2276,
+        "lon": 2.2137
+      }
+    },
+    {
+      "id": "q039",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "Which country is the smallest in the world?",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "correctAnswer": "Vatican City",
+      "explanation": "Vatican City is only 0.44 square kilometers.",
+      "targetLocation": {
+        "lat": 41.9029,
+        "lon": 12.4534
+      }
+    },
+    {
+      "id": "q040",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "Which country has the longest coastline?",
+      "options": [
+        "Australia",
+        "Indonesia",
+        "Canada",
+        "Russia"
+      ],
+      "correctAnswer": "Canada",
+      "explanation": "Canada has over 202,080 km of coastline.",
+      "targetLocation": {
+        "lat": 56.1304,
+        "lon": -106.3468
+      }
+    },
+    {
+      "id": "q041",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Portugal?",
+      "options": [
+        "Porto",
+        "Lisbon",
+        "Faro",
+        "Coimbra"
+      ],
+      "correctAnswer": "Lisbon",
+      "explanation": "Lisbon has been the capital since 1255.",
+      "targetLocation": {
+        "lat": 38.7223,
+        "lon": -9.1393
+      }
+    },
+    {
+      "id": "q042",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Norway?",
+      "options": [
+        "Bergen",
+        "Trondheim",
+        "Oslo",
+        "Stavanger"
+      ],
+      "correctAnswer": "Oslo",
+      "explanation": "Oslo became the capital in 1814.",
+      "targetLocation": {
+        "lat": 59.9139,
+        "lon": 10.7522
+      }
+    },
+    {
+      "id": "q043",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Sweden?",
+      "options": [
+        "Gothenburg",
+        "Malmö",
+        "Stockholm",
+        "Uppsala"
+      ],
+      "correctAnswer": "Stockholm",
+      "explanation": "Stockholm has been the capital since 1436.",
+      "targetLocation": {
+        "lat": 59.3293,
+        "lon": 18.0686
+      }
+    },
+    {
+      "id": "q044",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Finland?",
+      "options": [
+        "Tampere",
+        "Turku",
+        "Helsinki",
+        "Espoo"
+      ],
+      "correctAnswer": "Helsinki",
+      "explanation": "Helsinki became the capital in 1812.",
+      "targetLocation": {
+        "lat": 60.1699,
+        "lon": 24.9384
+      }
+    },
+    {
+      "id": "q045",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Denmark?",
+      "options": [
+        "Aarhus",
+        "Copenhagen",
+        "Odense",
+        "Aalborg"
+      ],
+      "correctAnswer": "Copenhagen",
+      "explanation": "Copenhagen has been the capital since the 15th century.",
+      "targetLocation": {
+        "lat": 55.6761,
+        "lon": 12.5683
+      }
+    },
+    {
+      "id": "q046",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Iceland?",
+      "options": [
+        "Akureyri",
+        "Reykjavik",
+        "Keflavík",
+        "Hafnarfjörður"
+      ],
+      "correctAnswer": "Reykjavik",
+      "explanation": "Reykjavik is the northernmost capital of a sovereign state.",
+      "targetLocation": {
+        "lat": 64.1466,
+        "lon": -21.9426
+      }
+    },
+    {
+      "id": "q047",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Austria?",
+      "options": [
+        "Salzburg",
+        "Vienna",
+        "Graz",
+        "Innsbruck"
+      ],
+      "correctAnswer": "Vienna",
+      "explanation": "Vienna has been the capital for over 600 years.",
+      "targetLocation": {
+        "lat": 48.2082,
+        "lon": 16.3738
+      }
+    },
+    {
+      "id": "q048",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Czech Republic?",
+      "options": [
+        "Brno",
+        "Prague",
+        "Ostrava",
+        "Plzeň"
+      ],
+      "correctAnswer": "Prague",
+      "explanation": "Prague has been the capital since the 9th century.",
+      "targetLocation": {
+        "lat": 50.0755,
+        "lon": 14.4378
+      }
+    },
+    {
+      "id": "q049",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Hungary?",
+      "options": [
+        "Debrecen",
+        "Szeged",
+        "Budapest",
+        "Miskolc"
+      ],
+      "correctAnswer": "Budapest",
+      "explanation": "Budapest was formed in 1873 from the merger of Buda and Pest.",
+      "targetLocation": {
+        "lat": 47.4979,
+        "lon": 19.0402
+      }
+    },
+    {
+      "id": "q050",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Romania?",
+      "options": [
+        "Cluj-Napoca",
+        "Timișoara",
+        "Bucharest",
+        "Iași"
+      ],
+      "correctAnswer": "Bucharest",
+      "explanation": "Bucharest became the capital in 1862.",
+      "targetLocation": {
+        "lat": 44.4268,
+        "lon": 26.1025
+      }
+    },
+    {
+      "id": "q051",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Bulgaria?",
+      "options": [
+        "Plovdiv",
+        "Varna",
+        "Sofia",
+        "Burgas"
+      ],
+      "correctAnswer": "Sofia",
+      "explanation": "Sofia has been the capital since 1879.",
+      "targetLocation": {
+        "lat": 42.6977,
+        "lon": 23.3219
+      }
+    },
+    {
+      "id": "q052",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Slovakia?",
+      "options": [
+        "Košice",
+        "Bratislava",
+        "Nitra",
+        "Žilina"
+      ],
+      "correctAnswer": "Bratislava",
+      "explanation": "Bratislava became the capital in 1993 when Slovakia became independent.",
+      "targetLocation": {
+        "lat": 48.1486,
+        "lon": 17.1077
+      }
+    },
+    {
+      "id": "q053",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Slovenia?",
+      "options": [
+        "Maribor",
+        "Ljubljana",
+        "Koper",
+        "Celje"
+      ],
+      "correctAnswer": "Ljubljana",
+      "explanation": "Ljubljana became the capital when Slovenia gained independence in 1991.",
+      "targetLocation": {
+        "lat": 46.0569,
+        "lon": 14.5058
+      }
+    },
+    {
+      "id": "q054",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Croatia?",
+      "options": [
+        "Split",
+        "Zagreb",
+        "Rijeka",
+        "Dubrovnik"
+      ],
+      "correctAnswer": "Zagreb",
+      "explanation": "Zagreb has been the capital since 1557.",
+      "targetLocation": {
+        "lat": 45.815,
+        "lon": 15.9819
+      }
+    },
+    {
+      "id": "q055",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of the Netherlands?",
+      "options": [
+        "Rotterdam",
+        "The Hague",
+        "Amsterdam",
+        "Utrecht"
+      ],
+      "correctAnswer": "Amsterdam",
+      "explanation": "Amsterdam is the constitutional capital, though the government is in The Hague.",
+      "targetLocation": {
+        "lat": 52.3676,
+        "lon": 4.9041
+      }
+    },
+    {
+      "id": "q056",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Belgium?",
+      "options": [
+        "Antwerp",
+        "Bruges",
+        "Brussels",
+        "Ghent"
+      ],
+      "correctAnswer": "Brussels",
+      "explanation": "Brussels is also the de facto capital of the European Union.",
+      "targetLocation": {
+        "lat": 50.8503,
+        "lon": 4.3517
+      }
+    },
+    {
+      "id": "q057",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Luxembourg?",
+      "options": [
+        "Luxembourg City",
+        "Esch-sur-Alzette",
+        "Differdange",
+        "Dudelange"
+      ],
+      "correctAnswer": "Luxembourg City",
+      "explanation": "Luxembourg City is one of the EU's three capitals.",
+      "targetLocation": {
+        "lat": 49.6116,
+        "lon": 6.1319
+      }
+    },
+    {
+      "id": "q058",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Mexico?",
+      "options": [
+        "Guadalajara",
+        "Monterrey",
+        "Mexico City",
+        "Tijuana"
+      ],
+      "correctAnswer": "Mexico City",
+      "explanation": "Mexico City has been the capital since Aztec times.",
+      "targetLocation": {
+        "lat": 19.4326,
+        "lon": -99.1332
+      }
+    },
+    {
+      "id": "q059",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Chile?",
+      "options": [
+        "Valparaíso",
+        "Santiago",
+        "Concepción",
+        "Viña del Mar"
+      ],
+      "correctAnswer": "Santiago",
+      "explanation": "Santiago has been the capital since 1541.",
+      "targetLocation": {
+        "lat": -33.4489,
+        "lon": -70.6693
+      }
+    },
+    {
+      "id": "q060",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Peru?",
+      "options": [
+        "Cusco",
+        "Arequipa",
+        "Lima",
+        "Trujillo"
+      ],
+      "correctAnswer": "Lima",
+      "explanation": "Lima was founded in 1535 and has been the capital ever since.",
+      "targetLocation": {
+        "lat": -12.0464,
+        "lon": -77.0428
+      }
+    },
+    {
+      "id": "q061",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Colombia?",
+      "options": [
+        "Medellín",
+        "Cali",
+        "Bogotá",
+        "Cartagena"
+      ],
+      "correctAnswer": "Bogotá",
+      "explanation": "Bogotá has been the capital since 1538.",
+      "targetLocation": {
+        "lat": 4.711,
+        "lon": -74.0721
+      }
+    },
+    {
+      "id": "q062",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Venezuela?",
+      "options": [
+        "Maracaibo",
+        "Valencia",
+        "Caracas",
+        "Barquisimeto"
+      ],
+      "correctAnswer": "Caracas",
+      "explanation": "Caracas became the capital in 1577.",
+      "targetLocation": {
+        "lat": 10.4806,
+        "lon": -66.9036
+      }
+    },
+    {
+      "id": "q063",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Ecuador?",
+      "options": [
+        "Guayaquil",
+        "Quito",
+        "Cuenca",
+        "Ambato"
+      ],
+      "correctAnswer": "Quito",
+      "explanation": "Quito is one of the highest capitals in the world at 2,850m.",
+      "targetLocation": {
+        "lat": -0.1807,
+        "lon": -78.4678
+      }
+    },
+    {
+      "id": "q064",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Bolivia?",
+      "options": [
+        "La Paz",
+        "Sucre",
+        "Both La Paz and Sucre",
+        "Santa Cruz"
+      ],
+      "correctAnswer": "Both La Paz and Sucre",
+      "explanation": "Sucre is the constitutional capital, La Paz is the seat of government.",
+      "targetLocation": {
+        "lat": -16.5,
+        "lon": -68.15
+      }
+    },
+    {
+      "id": "q065",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Paraguay?",
+      "options": [
+        "Ciudad del Este",
+        "Asunción",
+        "Encarnación",
+        "Concepción"
+      ],
+      "correctAnswer": "Asunción",
+      "explanation": "Asunción is one of the oldest cities in South America.",
+      "targetLocation": {
+        "lat": -25.2637,
+        "lon": -57.5759
+      }
+    },
+    {
+      "id": "q066",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Uruguay?",
+      "options": [
+        "Salto",
+        "Paysandú",
+        "Montevideo",
+        "Maldonado"
+      ],
+      "correctAnswer": "Montevideo",
+      "explanation": "Montevideo has been the capital since 1828.",
+      "targetLocation": {
+        "lat": -34.9011,
+        "lon": -56.1645
+      }
+    },
+    {
+      "id": "q067",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of South Korea?",
+      "options": [
+        "Busan",
+        "Seoul",
+        "Incheon",
+        "Daegu"
+      ],
+      "correctAnswer": "Seoul",
+      "explanation": "Seoul has been the capital for over 600 years.",
+      "targetLocation": {
+        "lat": 37.5665,
+        "lon": 126.978
+      }
+    },
+    {
+      "id": "q068",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Thailand?",
+      "options": [
+        "Phuket",
+        "Chiang Mai",
+        "Bangkok",
+        "Pattaya"
+      ],
+      "correctAnswer": "Bangkok",
+      "explanation": "Bangkok's full ceremonial name is the longest city name in the world.",
+      "targetLocation": {
+        "lat": 13.7563,
+        "lon": 100.5018
+      }
+    },
+    {
+      "id": "q069",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Vietnam?",
+      "options": [
+        "Ho Chi Minh City",
+        "Hanoi",
+        "Da Nang",
+        "Hue"
+      ],
+      "correctAnswer": "Hanoi",
+      "explanation": "Hanoi has been the capital since 1976 (unified Vietnam).",
+      "targetLocation": {
+        "lat": 21.0285,
+        "lon": 105.8542
+      }
+    },
+    {
+      "id": "q070",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Malaysia?",
+      "options": [
+        "Penang",
+        "Kuala Lumpur",
+        "Johor Bahru",
+        "Ipoh"
+      ],
+      "correctAnswer": "Kuala Lumpur",
+      "explanation": "Kuala Lumpur has been the capital since 1880.",
+      "targetLocation": {
+        "lat": 3.139,
+        "lon": 101.6869
+      }
+    },
+    {
+      "id": "q071",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Indonesia?",
+      "options": [
+        "Surabaya",
+        "Bandung",
+        "Jakarta",
+        "Medan"
+      ],
+      "correctAnswer": "Jakarta",
+      "explanation": "Jakarta is being replaced by Nusantara as the capital in the 2020s.",
+      "targetLocation": {
+        "lat": -6.2088,
+        "lon": 106.8456
+      }
+    },
+    {
+      "id": "q072",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Philippines?",
+      "options": [
+        "Cebu",
+        "Davao",
+        "Manila",
+        "Quezon City"
+      ],
+      "correctAnswer": "Manila",
+      "explanation": "Manila is the capital, though Metro Manila includes multiple cities.",
+      "targetLocation": {
+        "lat": 14.5995,
+        "lon": 120.9842
+      }
+    },
+    {
+      "id": "q073",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Singapore?",
+      "options": [
+        "Singapore",
+        "Jurong",
+        "Tampines",
+        "Woodlands"
+      ],
+      "correctAnswer": "Singapore",
+      "explanation": "Singapore is a city-state, so the city and country share the same name.",
+      "targetLocation": {
+        "lat": 1.3521,
+        "lon": 103.8198
+      }
+    },
+    {
+      "id": "q074",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of New Zealand?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Dunedin"
+      ],
+      "correctAnswer": "Wellington",
+      "explanation": "Wellington has been the capital since 1865.",
+      "targetLocation": {
+        "lat": -41.2865,
+        "lon": 174.7762
+      }
+    },
+    {
+      "id": "q075",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of South Africa?",
+      "options": [
+        "Johannesburg",
+        "Cape Town",
+        "All three: Pretoria, Cape Town, and Bloemfontein",
+        "Durban"
+      ],
+      "correctAnswer": "All three: Pretoria, Cape Town, and Bloemfontein",
+      "explanation": "South Africa uniquely has three capitals for different government branches.",
+      "targetLocation": {
+        "lat": -25.7461,
+        "lon": 28.1881
+      }
+    },
+    {
+      "id": "q076",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Kenya?",
+      "options": [
+        "Mombasa",
+        "Nairobi",
+        "Kisumu",
+        "Nakuru"
+      ],
+      "correctAnswer": "Nairobi",
+      "explanation": "Nairobi became the capital in 1907.",
+      "targetLocation": {
+        "lat": -1.2864,
+        "lon": 36.8172
+      }
+    },
+    {
+      "id": "q077",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Nigeria?",
+      "options": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Port Harcourt"
+      ],
+      "correctAnswer": "Abuja",
+      "explanation": "Abuja became the capital in 1991, replacing Lagos.",
+      "targetLocation": {
+        "lat": 9.0765,
+        "lon": 7.3986
+      }
+    },
+    {
+      "id": "q078",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Ethiopia?",
+      "options": [
+        "Dire Dawa",
+        "Gondar",
+        "Addis Ababa",
+        "Bahir Dar"
+      ],
+      "correctAnswer": "Addis Ababa",
+      "explanation": "Addis Ababa is also the headquarters of the African Union.",
+      "targetLocation": {
+        "lat": 9.032,
+        "lon": 38.7469
+      }
+    },
+    {
+      "id": "q079",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Morocco?",
+      "options": [
+        "Casablanca",
+        "Marrakech",
+        "Rabat",
+        "Fez"
+      ],
+      "correctAnswer": "Rabat",
+      "explanation": "Rabat has been the capital since 1912.",
+      "targetLocation": {
+        "lat": 34.0209,
+        "lon": -6.8416
+      }
+    },
+    {
+      "id": "q080",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Algeria?",
+      "options": [
+        "Oran",
+        "Algiers",
+        "Constantine",
+        "Annaba"
+      ],
+      "correctAnswer": "Algiers",
+      "explanation": "Algiers has been the capital since the 10th century.",
+      "targetLocation": {
+        "lat": 36.7538,
+        "lon": 3.0588
+      }
+    },
+    {
+      "id": "q081",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Tunisia?",
+      "options": [
+        "Sfax",
+        "Sousse",
+        "Tunis",
+        "Kairouan"
+      ],
+      "correctAnswer": "Tunis",
+      "explanation": "Tunis has been the capital since 1159.",
+      "targetLocation": {
+        "lat": 36.8065,
+        "lon": 10.1815
+      }
+    },
+    {
+      "id": "q082",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Libya?",
+      "options": [
+        "Benghazi",
+        "Misrata",
+        "Tripoli",
+        "Tobruk"
+      ],
+      "correctAnswer": "Tripoli",
+      "explanation": "Tripoli has been the capital since 1951.",
+      "targetLocation": {
+        "lat": 32.8872,
+        "lon": 13.1913
+      }
+    },
+    {
+      "id": "q083",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Saudi Arabia?",
+      "options": [
+        "Jeddah",
+        "Mecca",
+        "Riyadh",
+        "Medina"
+      ],
+      "correctAnswer": "Riyadh",
+      "explanation": "Riyadh has been the capital since 1824.",
+      "targetLocation": {
+        "lat": 24.7136,
+        "lon": 46.6753
+      }
+    },
+    {
+      "id": "q084",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of United Arab Emirates?",
+      "options": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah",
+        "Ajman"
+      ],
+      "correctAnswer": "Abu Dhabi",
+      "explanation": "Abu Dhabi is the capital and the largest emirate.",
+      "targetLocation": {
+        "lat": 24.4539,
+        "lon": 54.3773
+      }
+    },
+    {
+      "id": "q085",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Israel?",
+      "options": [
+        "Tel Aviv",
+        "Jerusalem",
+        "Haifa",
+        "Be'er Sheva"
+      ],
+      "correctAnswer": "Jerusalem",
+      "explanation": "Jerusalem has been declared as Israel's capital, though it's disputed internationally.",
+      "targetLocation": {
+        "lat": 31.7683,
+        "lon": 35.2137
+      }
+    },
+    {
+      "id": "q086",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Iran?",
+      "options": [
+        "Isfahan",
+        "Shiraz",
+        "Tehran",
+        "Mashhad"
+      ],
+      "correctAnswer": "Tehran",
+      "explanation": "Tehran has been the capital since 1786.",
+      "targetLocation": {
+        "lat": 35.6892,
+        "lon": 51.389
+      }
+    },
+    {
+      "id": "q087",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Iraq?",
+      "options": [
+        "Basra",
+        "Mosul",
+        "Baghdad",
+        "Erbil"
+      ],
+      "correctAnswer": "Baghdad",
+      "explanation": "Baghdad has been a major city since 762 AD.",
+      "targetLocation": {
+        "lat": 33.3152,
+        "lon": 44.3661
+      }
+    },
+    {
+      "id": "q088",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Jordan?",
+      "options": [
+        "Zarqa",
+        "Irbid",
+        "Amman",
+        "Aqaba"
+      ],
+      "correctAnswer": "Amman",
+      "explanation": "Amman has been the capital since 1921.",
+      "targetLocation": {
+        "lat": 31.9454,
+        "lon": 35.9284
+      }
+    },
+    {
+      "id": "q089",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Lebanon?",
+      "options": [
+        "Tripoli",
+        "Sidon",
+        "Beirut",
+        "Tyre"
+      ],
+      "correctAnswer": "Beirut",
+      "explanation": "Beirut has been inhabited for over 5,000 years.",
+      "targetLocation": {
+        "lat": 33.8886,
+        "lon": 35.4955
+      }
+    },
+    {
+      "id": "q090",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Pakistan?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Rawalpindi"
+      ],
+      "correctAnswer": "Islamabad",
+      "explanation": "Islamabad was purpose-built and became the capital in 1967.",
+      "targetLocation": {
+        "lat": 33.6844,
+        "lon": 73.0479
+      }
+    },
+    {
+      "id": "q091",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Afghanistan?",
+      "options": [
+        "Kandahar",
+        "Herat",
+        "Kabul",
+        "Mazar-i-Sharif"
+      ],
+      "correctAnswer": "Kabul",
+      "explanation": "Kabul has been the capital for over 200 years.",
+      "targetLocation": {
+        "lat": 34.5553,
+        "lon": 69.2075
+      }
+    },
+    {
+      "id": "q092",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Bangladesh?",
+      "options": [
+        "Chittagong",
+        "Dhaka",
+        "Khulna",
+        "Rajshahi"
+      ],
+      "correctAnswer": "Dhaka",
+      "explanation": "Dhaka is one of the world's most densely populated cities.",
+      "targetLocation": {
+        "lat": 23.8103,
+        "lon": 90.4125
+      }
+    },
+    {
+      "id": "q093",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Sri Lanka?",
+      "options": [
+        "Colombo",
+        "Sri Jayawardenepura Kotte",
+        "Kandy",
+        "Galle"
+      ],
+      "correctAnswer": "Sri Jayawardenepura Kotte",
+      "explanation": "Sri Jayawardenepura Kotte is the legislative capital, while Colombo is the commercial capital.",
+      "targetLocation": {
+        "lat": 6.9271,
+        "lon": 79.8612
+      }
+    },
+    {
+      "id": "q094",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Nepal?",
+      "options": [
+        "Pokhara",
+        "Kathmandu",
+        "Lalitpur",
+        "Bhaktapur"
+      ],
+      "correctAnswer": "Kathmandu",
+      "explanation": "Kathmandu is located in a valley surrounded by the Himalayas.",
+      "targetLocation": {
+        "lat": 27.7172,
+        "lon": 85.324
+      }
+    },
+    {
+      "id": "q095",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Mongolia?",
+      "options": [
+        "Erdenet",
+        "Darkhan",
+        "Ulaanbaatar",
+        "Choibalsan"
+      ],
+      "correctAnswer": "Ulaanbaatar",
+      "explanation": "Ulaanbaatar is the coldest capital city in the world.",
+      "targetLocation": {
+        "lat": 47.8864,
+        "lon": 106.9057
+      }
+    },
+    {
+      "id": "q096",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is known as the City of Love?",
+      "options": [
+        "Rome",
+        "Venice",
+        "Paris",
+        "Vienna"
+      ],
+      "correctAnswer": "Paris",
+      "explanation": "Paris is famously known as the City of Love and the City of Light.",
+      "targetLocation": {
+        "lat": 48.8566,
+        "lon": 2.3522
+      }
+    },
+    {
+      "id": "q097",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city is built on seven hills?",
+      "options": [
+        "Athens",
+        "Rome",
+        "Jerusalem",
+        "Lisbon"
+      ],
+      "correctAnswer": "Rome",
+      "explanation": "Rome is famously built on seven hills: Aventine, Caelian, Capitoline, Esquiline, Palatine, Quirinal, and Viminal.",
+      "targetLocation": {
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
+    },
+    {
+      "id": "q098",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city is known as the Eternal City?",
+      "options": [
+        "Athens",
+        "Cairo",
+        "Rome",
+        "Jerusalem"
+      ],
+      "correctAnswer": "Rome",
+      "explanation": "Rome has been called the Eternal City for over 2,000 years.",
+      "targetLocation": {
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
+    },
+    {
+      "id": "q099",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is famous for its canals and gondolas?",
+      "options": [
+        "Amsterdam",
+        "Venice",
+        "Bruges",
+        "Bangkok"
+      ],
+      "correctAnswer": "Venice",
+      "explanation": "Venice is built on 118 small islands connected by canals.",
+      "targetLocation": {
+        "lat": 45.4408,
+        "lon": 12.3155
+      }
+    },
+    {
+      "id": "q100",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city was formerly called Byzantium?",
+      "options": [
+        "Athens",
+        "Istanbul",
+        "Cairo",
+        "Jerusalem"
+      ],
+      "correctAnswer": "Istanbul",
+      "explanation": "Istanbul was called Byzantium, then Constantinople, before its current name.",
+      "targetLocation": {
+        "lat": 41.0082,
+        "lon": 28.9784
+      }
+    },
+    {
+      "id": "q101",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Uzbekistan?",
+      "options": [
+        "Tashkent",
+        "Samarkand",
+        "Bukhara",
+        "Khiva"
+      ],
+      "correctAnswer": "Tashkent",
+      "explanation": "Tashkent became the capital in 1930.",
+      "targetLocation": {
+        "lat": 41.2995,
+        "lon": 69.2401
+      }
+    },
+    {
+      "id": "q102",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Azerbaijan?",
+      "options": [
+        "Ganja",
+        "Baku",
+        "Sumqayit",
+        "Nakhchivan"
+      ],
+      "correctAnswer": "Baku",
+      "explanation": "Baku is located on the Caspian Sea coast.",
+      "targetLocation": {
+        "lat": 40.4093,
+        "lon": 49.8671
+      }
+    },
+    {
+      "id": "q103",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Armenia?",
+      "options": [
+        "Gyumri",
+        "Vanadzor",
+        "Yerevan",
+        "Echmiadzin"
+      ],
+      "correctAnswer": "Yerevan",
+      "explanation": "Yerevan is one of the world's oldest continuously inhabited cities.",
+      "targetLocation": {
+        "lat": 40.1792,
+        "lon": 44.4991
+      }
+    },
+    {
+      "id": "q104",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Georgia?",
+      "options": [
+        "Batumi",
+        "Kutaisi",
+        "Tbilisi",
+        "Rustavi"
+      ],
+      "correctAnswer": "Tbilisi",
+      "explanation": "Tbilisi has been the capital since the 5th century.",
+      "targetLocation": {
+        "lat": 41.7151,
+        "lon": 44.8271
+      }
+    },
+    {
+      "id": "q105",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Ukraine?",
+      "options": [
+        "Kharkiv",
+        "Lviv",
+        "Kyiv",
+        "Odesa"
+      ],
+      "correctAnswer": "Kyiv",
+      "explanation": "Kyiv is one of the oldest cities in Eastern Europe.",
+      "targetLocation": {
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
+    },
+    {
+      "id": "q106",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Belarus?",
+      "options": [
+        "Brest",
+        "Gomel",
+        "Minsk",
+        "Vitebsk"
+      ],
+      "correctAnswer": "Minsk",
+      "explanation": "Minsk became the capital in 1919.",
+      "targetLocation": {
+        "lat": 53.9006,
+        "lon": 27.559
+      }
+    },
+    {
+      "id": "q107",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Moldova?",
+      "options": [
+        "Bălți",
+        "Tiraspol",
+        "Chișinău",
+        "Bender"
+      ],
+      "correctAnswer": "Chișinău",
+      "explanation": "Chișinău has been the capital since 1812.",
+      "targetLocation": {
+        "lat": 47.0105,
+        "lon": 28.8638
+      }
+    },
+    {
+      "id": "q108",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Serbia?",
+      "options": [
+        "Novi Sad",
+        "Niš",
+        "Belgrade",
+        "Kragujevac"
+      ],
+      "correctAnswer": "Belgrade",
+      "explanation": "Belgrade is one of the oldest cities in Europe.",
+      "targetLocation": {
+        "lat": 44.7866,
+        "lon": 20.4489
+      }
+    },
+    {
+      "id": "q109",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Bosnia and Herzegovina?",
+      "options": [
+        "Banja Luka",
+        "Mostar",
+        "Sarajevo",
+        "Tuzla"
+      ],
+      "correctAnswer": "Sarajevo",
+      "explanation": "Sarajevo is known for its diverse religious heritage.",
+      "targetLocation": {
+        "lat": 43.8486,
+        "lon": 18.3564
+      }
+    },
+    {
+      "id": "q110",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Montenegro?",
+      "options": [
+        "Nikšić",
+        "Pljevlja",
+        "Podgorica",
+        "Budva"
+      ],
+      "correctAnswer": "Podgorica",
+      "explanation": "Podgorica became the capital in 1946.",
+      "targetLocation": {
+        "lat": 42.4304,
+        "lon": 19.2594
+      }
+    },
+    {
+      "id": "q111",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of North Macedonia?",
+      "options": [
+        "Bitola",
+        "Skopje",
+        "Kumanovo",
+        "Prilep"
+      ],
+      "correctAnswer": "Skopje",
+      "explanation": "Skopje has been the capital since 1991 independence.",
+      "targetLocation": {
+        "lat": 41.9973,
+        "lon": 21.428
+      }
+    },
+    {
+      "id": "q112",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Albania?",
+      "options": [
+        "Durrës",
+        "Vlorë",
+        "Tirana",
+        "Shkodër"
+      ],
+      "correctAnswer": "Tirana",
+      "explanation": "Tirana became the capital in 1920.",
+      "targetLocation": {
+        "lat": 41.3275,
+        "lon": 19.8187
+      }
+    },
+    {
+      "id": "q113",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Kosovo?",
+      "options": [
+        "Prizren",
+        "Pristina",
+        "Peja",
+        "Gjilan"
+      ],
+      "correctAnswer": "Pristina",
+      "explanation": "Pristina has been the capital since 2008.",
+      "targetLocation": {
+        "lat": 42.6629,
+        "lon": 21.1655
+      }
+    },
+    {
+      "id": "q114",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Estonia?",
+      "options": [
+        "Tartu",
+        "Narva",
+        "Tallinn",
+        "Pärnu"
+      ],
+      "correctAnswer": "Tallinn",
+      "explanation": "Tallinn is one of the best-preserved medieval cities in Europe.",
+      "targetLocation": {
+        "lat": 59.437,
+        "lon": 24.7536
+      }
+    },
+    {
+      "id": "q115",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Latvia?",
+      "options": [
+        "Daugavpils",
+        "Liepāja",
+        "Riga",
+        "Jelgava"
+      ],
+      "correctAnswer": "Riga",
+      "explanation": "Riga is the largest city in the Baltic states.",
+      "targetLocation": {
+        "lat": 56.9496,
+        "lon": 24.1052
+      }
+    },
+    {
+      "id": "q116",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Lithuania?",
+      "options": [
+        "Kaunas",
+        "Klaipėda",
+        "Vilnius",
+        "Šiauliai"
+      ],
+      "correctAnswer": "Vilnius",
+      "explanation": "Vilnius is known for its baroque architecture.",
+      "targetLocation": {
+        "lat": 54.6872,
+        "lon": 25.2797
+      }
+    },
+    {
+      "id": "q117",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "What is the capital of Ireland?",
+      "options": [
+        "Cork",
+        "Galway",
+        "Dublin",
+        "Limerick"
+      ],
+      "correctAnswer": "Dublin",
+      "explanation": "Dublin is located on the east coast at the mouth of the River Liffey.",
+      "targetLocation": {
+        "lat": 53.3498,
+        "lon": -6.2603
+      }
+    },
+    {
+      "id": "q118",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Cuba?",
+      "options": [
+        "Santiago de Cuba",
+        "Havana",
+        "Camag",
+        "Holguín"
+      ],
+      "correctAnswer": "Havana",
+      "explanation": "Havana is the largest city in the Caribbean.",
+      "targetLocation": {
+        "lat": 23.1136,
+        "lon": -82.3666
+      }
+    },
+    {
+      "id": "q119",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Jamaica?",
+      "options": [
+        "Montego Bay",
+        "Spanish Town",
+        "Kingston",
+        "Portmore"
+      ],
+      "correctAnswer": "Kingston",
+      "explanation": "Kingston is the largest English-speaking city in the Caribbean.",
+      "targetLocation": {
+        "lat": 18.0179,
+        "lon": -76.8099
+      }
+    },
+    {
+      "id": "q120",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Haiti?",
+      "options": [
+        "Cap-Haïtien",
+        "Gonaïves",
+        "Port-au-Prince",
+        "Les Cayes"
+      ],
+      "correctAnswer": "Port-au-Prince",
+      "explanation": "Port-au-Prince was founded in 1749.",
+      "targetLocation": {
+        "lat": 18.5944,
+        "lon": -72.3074
+      }
+    },
+    {
+      "id": "q121",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Dominican Republic?",
+      "options": [
+        "Santiago",
+        "La Romana",
+        "Santo Domingo",
+        "San Pedro"
+      ],
+      "correctAnswer": "Santo Domingo",
+      "explanation": "Santo Domingo is the oldest continuously inhabited European settlement in the Americas.",
+      "targetLocation": {
+        "lat": 18.4861,
+        "lon": -69.9312
+      }
+    },
+    {
+      "id": "q122",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Costa Rica?",
+      "options": [
+        "Limón",
+        "Alajuela",
+        "San José",
+        "Cartago"
+      ],
+      "correctAnswer": "San José",
+      "explanation": "San José became the capital in 1823.",
+      "targetLocation": {
+        "lat": 9.9281,
+        "lon": -84.0907
+      }
+    },
+    {
+      "id": "q123",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Panama?",
+      "options": [
+        "Colón",
+        "David",
+        "Panama City",
+        "Santiago"
+      ],
+      "correctAnswer": "Panama City",
+      "explanation": "Panama City was founded in 1519.",
+      "targetLocation": {
+        "lat": 8.9824,
+        "lon": -79.5199
+      }
+    },
+    {
+      "id": "q124",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Nicaragua?",
+      "options": [
+        "León",
+        "Granada",
+        "Managua",
+        "Masaya"
+      ],
+      "correctAnswer": "Managua",
+      "explanation": "Managua became the capital in 1852.",
+      "targetLocation": {
+        "lat": 12.1149,
+        "lon": -86.2362
+      }
+    },
+    {
+      "id": "q125",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Honduras?",
+      "options": [
+        "San Pedro Sula",
+        "La Ceiba",
+        "Tegucigalpa",
+        "Choloma"
+      ],
+      "correctAnswer": "Tegucigalpa",
+      "explanation": "Tegucigalpa has been the capital since 1880.",
+      "targetLocation": {
+        "lat": 14.0723,
+        "lon": -87.1921
+      }
+    },
+    {
+      "id": "q126",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of El Salvador?",
+      "options": [
+        "Santa Ana",
+        "San Miguel",
+        "San Salvador",
+        "Soyapango"
+      ],
+      "correctAnswer": "San Salvador",
+      "explanation": "San Salvador was founded in 1525.",
+      "targetLocation": {
+        "lat": 13.6929,
+        "lon": -89.2182
+      }
+    },
+    {
+      "id": "q127",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Guatemala?",
+      "options": [
+        "Quetzaltenango",
+        "Escuintla",
+        "Guatemala City",
+        "Antigua"
+      ],
+      "correctAnswer": "Guatemala City",
+      "explanation": "Guatemala City was founded in 1776.",
+      "targetLocation": {
+        "lat": 14.6349,
+        "lon": -90.5069
+      }
+    },
+    {
+      "id": "q128",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "capitals",
+      "question": "What is the capital of Belize?",
+      "options": [
+        "Belize City",
+        "San Ignacio",
+        "Belmopan",
+        "Orange Walk"
+      ],
+      "correctAnswer": "Belmopan",
+      "explanation": "Belmopan became the capital in 1970 after Hurricane Hattie.",
+      "targetLocation": {
+        "lat": 17.251,
+        "lon": -88.759
+      }
+    },
+    {
+      "id": "q129",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Qatar?",
+      "options": [
+        "Al Wakrah",
+        "Al Rayyan",
+        "Doha",
+        "Al Khor"
+      ],
+      "correctAnswer": "Doha",
+      "explanation": "Doha is located on the coast of the Persian Gulf.",
+      "targetLocation": {
+        "lat": 25.2854,
+        "lon": 51.531
+      }
+    },
+    {
+      "id": "q130",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "capitals",
+      "question": "What is the capital of Kuwait?",
+      "options": [
+        "Hawalli",
+        "Al Ahmadi",
+        "Kuwait City",
+        "Salmiya"
+      ],
+      "correctAnswer": "Kuwait City",
+      "explanation": "Kuwait City has been the capital since 1613.",
+      "targetLocation": {
+        "lat": 29.3759,
+        "lon": 47.9774
+      }
+    },
+    {
+      "id": "q131",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "mountains",
+      "question": "What mountain range separates Europe from Asia?",
+      "options": [
+        "Alps",
+        "Ural Mountains",
+        "Caucasus",
+        "Carpathians"
+      ],
+      "correctAnswer": "Ural Mountains",
+      "explanation": "The Ural Mountains form the natural boundary between Europe and Asia.",
+      "targetLocation": {
+        "lat": 60.0,
+        "lon": 60.0
+      }
+    },
+    {
+      "id": "q132",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "mountains",
+      "question": "What is the highest mountain in North America?",
+      "options": [
+        "Mount McKinley",
+        "Denali",
+        "Both are the same",
+        "Mount Whitney"
+      ],
+      "correctAnswer": "Both are the same",
+      "explanation": "Denali (formerly Mount McKinley) is 6,190m tall.",
+      "targetLocation": {
+        "lat": 63.0692,
+        "lon": -151.007
+      }
+    },
+    {
+      "id": "q133",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "mountains",
+      "question": "What is the highest mountain in the Alps?",
+      "options": [
+        "Matterhorn",
+        "Mont Blanc",
+        "Eiger",
+        "Jungfrau"
+      ],
+      "correctAnswer": "Mont Blanc",
+      "explanation": "Mont Blanc stands at 4,808 meters.",
+      "targetLocation": {
+        "lat": 45.8326,
+        "lon": 6.8652
+      }
+    },
+    {
+      "id": "q134",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "mountains",
+      "question": "What is the second highest mountain in the world?",
+      "options": [
+        "Kangchenjunga",
+        "K2",
+        "Lhotse",
+        "Makalu"
+      ],
+      "correctAnswer": "K2",
+      "explanation": "K2 is 8,611 meters tall, second only to Everest.",
+      "targetLocation": {
+        "lat": 35.8825,
+        "lon": 76.5133
+      }
+    },
+    {
+      "id": "q135",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Which river is the longest in Europe?",
+      "options": [
+        "Danube",
+        "Rhine",
+        "Volga",
+        "Dnieper"
+      ],
+      "correctAnswer": "Volga",
+      "explanation": "The Volga River is 3,530 km long.",
+      "targetLocation": {
+        "lat": 55.7,
+        "lon": 49.0
+      }
+    },
+    {
+      "id": "q136",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Which river flows through Rome?",
+      "options": [
+        "Arno",
+        "Po",
+        "Tiber",
+        "Adige"
+      ],
+      "correctAnswer": "Tiber",
+      "explanation": "The Tiber River has been central to Rome's history.",
+      "targetLocation": {
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
+    },
+    {
+      "id": "q137",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "rivers",
+      "question": "Which river flows through Cairo?",
+      "options": [
+        "Nile",
+        "Niger",
+        "Congo",
+        "Zambezi"
+      ],
+      "correctAnswer": "Nile",
+      "explanation": "The Nile flows through Egypt's capital.",
+      "targetLocation": {
+        "lat": 30.0444,
+        "lon": 31.2357
+      }
+    },
+    {
+      "id": "q138",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Which river forms the border between USA and Mexico?",
+      "options": [
+        "Colorado",
+        "Rio Grande",
+        "Brazos",
+        "Red River"
+      ],
+      "correctAnswer": "Rio Grande",
+      "explanation": "The Rio Grande is about 3,000 km long.",
+      "targetLocation": {
+        "lat": 26.0,
+        "lon": -97.0
+      }
+    },
+    {
+      "id": "q139",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "rivers",
+      "question": "Which is the largest river by discharge volume?",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Mississippi",
+        "Yangtze"
+      ],
+      "correctAnswer": "Amazon",
+      "explanation": "The Amazon discharges more water than the next seven largest rivers combined.",
+      "targetLocation": {
+        "lat": -3.4,
+        "lon": -62.0
+      }
+    },
+    {
+      "id": "q140",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "geographic-regions",
+      "question": "What is the largest island in the world?",
+      "options": [
+        "Borneo",
+        "Madagascar",
+        "Greenland",
+        "New Guinea"
+      ],
+      "correctAnswer": "Greenland",
+      "explanation": "Greenland is 2.17 million km².",
+      "targetLocation": {
+        "lat": 71.7069,
+        "lon": -42.6043
+      }
+    },
+    {
+      "id": "q141",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "Australia is both a country and a continent.",
+      "correctAnswer": "true",
+      "explanation": "Australia is the world's smallest continent and the sixth-largest country.",
+      "targetLocation": {
+        "lat": -25.0,
+        "lon": 133.0
+      }
+    },
+    {
+      "id": "q142",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "The Dead Sea is the lowest point on Earth's surface.",
+      "correctAnswer": "true",
+      "explanation": "The Dead Sea is about 430 meters below sea level.",
+      "targetLocation": {
+        "lat": 31.5,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "q143",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "The Pacific Ocean is larger than all continents combined.",
+      "correctAnswer": "true",
+      "explanation": "The Pacific Ocean covers about 165 million km².",
+      "targetLocation": {
+        "lat": 0.0,
+        "lon": -160.0
+      }
+    },
+    {
+      "id": "q144",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "Mount Everest is still growing taller each year.",
+      "correctAnswer": "true",
+      "explanation": "Everest grows about 4mm per year due to tectonic activity.",
+      "targetLocation": {
+        "lat": 27.9881,
+        "lon": 86.925
+      }
+    },
+    {
+      "id": "q145",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "Russia spans 11 time zones.",
+      "correctAnswer": "true",
+      "explanation": "Russia is the largest country by area.",
+      "targetLocation": {
+        "lat": 60.0,
+        "lon": 100.0
+      }
+    },
+    {
+      "id": "q146",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "Africa is the second-largest continent.",
+      "correctAnswer": "true",
+      "explanation": "Africa is 30.37 million km².",
+      "targetLocation": {
+        "lat": 0.0,
+        "lon": 20.0
+      }
+    },
+    {
+      "id": "q147",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "Iceland has more volcanoes than any other country.",
+      "correctAnswer": "false",
+      "explanation": "Indonesia has the most volcanoes.",
+      "targetLocation": {
+        "lat": 65.0,
+        "lon": -18.0
+      }
+    },
+    {
+      "id": "q148",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "The Sahara is a hot desert.",
+      "correctAnswer": "true",
+      "explanation": "The Sahara is the world's largest hot desert.",
+      "targetLocation": {
+        "lat": 23.0,
+        "lon": 25.0
+      }
+    },
+    {
+      "id": "q149",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "The Amazon rainforest produces 20% of Earth's oxygen.",
+      "correctAnswer": "false",
+      "explanation": "This is a myth; oceans produce most oxygen.",
+      "targetLocation": {
+        "lat": -3.0,
+        "lon": -60.0
+      }
+    },
+    {
+      "id": "q150",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "Lake Baikal in Russia is the world's deepest lake.",
+      "correctAnswer": "true",
+      "explanation": "Lake Baikal is 1,642 meters deep.",
+      "targetLocation": {
+        "lat": 53.5,
+        "lon": 108.0
+      }
+    },
+    {
+      "id": "q151",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is home to the Statue of Liberty?",
+      "options": [
+        "Boston",
+        "New York",
+        "Philadelphia",
+        "Washington"
+      ],
+      "correctAnswer": "New York",
+      "explanation": "The Statue of Liberty is on Liberty Island in New York Harbor.",
+      "targetLocation": {
+        "lat": 40.6892,
+        "lon": -74.0445
+      }
+    },
+    {
+      "id": "q152",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is home to the Colosseum?",
+      "options": [
+        "Athens",
+        "Rome",
+        "Cairo",
+        "Istanbul"
+      ],
+      "correctAnswer": "Rome",
+      "explanation": "The Colosseum was built between 70-80 AD.",
+      "targetLocation": {
+        "lat": 41.8902,
+        "lon": 12.4922
+      }
+    },
+    {
+      "id": "q153",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city is home to the Burj Khalifa?",
+      "options": [
+        "Abu Dhabi",
+        "Dubai",
+        "Doha",
+        "Kuwait City"
+      ],
+      "correctAnswer": "Dubai",
+      "explanation": "The Burj Khalifa is the world's tallest building at 828m.",
+      "targetLocation": {
+        "lat": 25.1972,
+        "lon": 55.2744
+      }
+    },
+    {
+      "id": "q154",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city is home to the Christ the Redeemer statue?",
+      "options": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Buenos Aires",
+        "Lima"
+      ],
+      "correctAnswer": "Rio de Janeiro",
+      "explanation": "Christ the Redeemer overlooks Rio from Corcovado mountain.",
+      "targetLocation": {
+        "lat": -22.9519,
+        "lon": -43.2105
+      }
+    },
+    {
+      "id": "q155",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is home to the Taj Mahal?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Agra",
+        "Jaipur"
+      ],
+      "correctAnswer": "Agra",
+      "explanation": "The Taj Mahal was built in 1632-1653.",
+      "targetLocation": {
+        "lat": 27.1751,
+        "lon": 78.0421
+      }
+    },
+    {
+      "id": "q156",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city is home to the Sagrada Família?",
+      "options": [
+        "Madrid",
+        "Barcelona",
+        "Valencia",
+        "Seville"
+      ],
+      "correctAnswer": "Barcelona",
+      "explanation": "The Sagrada Família has been under construction since 1882.",
+      "targetLocation": {
+        "lat": 41.4036,
+        "lon": 2.1744
+      }
+    },
+    {
+      "id": "q157",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "cities",
+      "question": "Which city is home to the Petronas Towers?",
+      "options": [
+        "Singapore",
+        "Jakarta",
+        "Kuala Lumpur",
+        "Bangkok"
+      ],
+      "correctAnswer": "Kuala Lumpur",
+      "explanation": "The Petronas Towers were the tallest buildings from 1998-2004.",
+      "targetLocation": {
+        "lat": 3.1578,
+        "lon": 101.7117
+      }
+    },
+    {
+      "id": "q158",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "cities",
+      "question": "Which city is home to the Hagia Sophia?",
+      "options": [
+        "Athens",
+        "Istanbul",
+        "Cairo",
+        "Jerusalem"
+      ],
+      "correctAnswer": "Istanbul",
+      "explanation": "The Hagia Sophia was built in 537 AD.",
+      "targetLocation": {
+        "lat": 41.0086,
+        "lon": 28.9802
+      }
+    },
+    {
+      "id": "q159",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is home to Big Ben?",
+      "options": [
+        "Dublin",
+        "Edinburgh",
+        "London",
+        "Manchester"
+      ],
+      "correctAnswer": "London",
+      "explanation": "Big Ben is the nickname for the Great Bell of the Palace of Westminster.",
+      "targetLocation": {
+        "lat": 51.5007,
+        "lon": -0.1246
+      }
+    },
+    {
+      "id": "q160",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "cities",
+      "question": "Which city is home to the Sydney Opera House?",
+      "options": [
+        "Melbourne",
+        "Sydney",
+        "Brisbane",
+        "Perth"
+      ],
+      "correctAnswer": "Sydney",
+      "explanation": "The Sydney Opera House was completed in 1973.",
+      "targetLocation": {
+        "lat": -33.8568,
+        "lon": 151.2153
+      }
+    },
+    {
+      "id": "q161",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #161",
+      "correctAnswer": "false",
+      "explanation": "This is question 161.",
+      "targetLocation": {
+        "lat": 71.0,
+        "lon": -19.0
+      }
+    },
+    {
+      "id": "q162",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #162",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 162.",
+      "targetLocation": {
+        "lat": 72.0,
+        "lon": -18.0
+      }
+    },
+    {
+      "id": "q163",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #163",
+      "correctAnswer": "false",
+      "explanation": "This is question 163.",
+      "targetLocation": {
+        "lat": 73.0,
+        "lon": -17.0
+      }
+    },
+    {
+      "id": "q164",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #164",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 164.",
+      "targetLocation": {
+        "lat": 74.0,
+        "lon": -16.0
+      }
+    },
+    {
+      "id": "q165",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #165",
+      "correctAnswer": "false",
+      "explanation": "This is question 165.",
+      "targetLocation": {
+        "lat": 75.0,
+        "lon": -15.0
+      }
+    },
+    {
+      "id": "q166",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #166",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 166.",
+      "targetLocation": {
+        "lat": 76.0,
+        "lon": -14.0
+      }
+    },
+    {
+      "id": "q167",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #167",
+      "correctAnswer": "false",
+      "explanation": "This is question 167.",
+      "targetLocation": {
+        "lat": 77.0,
+        "lon": -13.0
+      }
+    },
+    {
+      "id": "q168",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #168",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 168.",
+      "targetLocation": {
+        "lat": 78.0,
+        "lon": -12.0
+      }
+    },
+    {
+      "id": "q169",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #169",
+      "correctAnswer": "false",
+      "explanation": "This is question 169.",
+      "targetLocation": {
+        "lat": 79.0,
+        "lon": -11.0
+      }
+    },
+    {
+      "id": "q170",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #170",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 170.",
+      "targetLocation": {
+        "lat": 80.0,
+        "lon": -10.0
+      }
+    },
+    {
+      "id": "q171",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #171",
+      "correctAnswer": "false",
+      "explanation": "This is question 171.",
+      "targetLocation": {
+        "lat": 81.0,
+        "lon": -9.0
+      }
+    },
+    {
+      "id": "q172",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #172",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 172.",
+      "targetLocation": {
+        "lat": 82.0,
+        "lon": -8.0
+      }
+    },
+    {
+      "id": "q173",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #173",
+      "correctAnswer": "false",
+      "explanation": "This is question 173.",
+      "targetLocation": {
+        "lat": 83.0,
+        "lon": -7.0
+      }
+    },
+    {
+      "id": "q174",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #174",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 174.",
+      "targetLocation": {
+        "lat": 84.0,
+        "lon": -6.0
+      }
+    },
+    {
+      "id": "q175",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #175",
+      "correctAnswer": "false",
+      "explanation": "This is question 175.",
+      "targetLocation": {
+        "lat": 85.0,
+        "lon": -5.0
+      }
+    },
+    {
+      "id": "q176",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #176",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 176.",
+      "targetLocation": {
+        "lat": 86.0,
+        "lon": -4.0
+      }
+    },
+    {
+      "id": "q177",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #177",
+      "correctAnswer": "false",
+      "explanation": "This is question 177.",
+      "targetLocation": {
+        "lat": 87.0,
+        "lon": -3.0
+      }
+    },
+    {
+      "id": "q178",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #178",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 178.",
+      "targetLocation": {
+        "lat": 88.0,
+        "lon": -2.0
+      }
+    },
+    {
+      "id": "q179",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #179",
+      "correctAnswer": "false",
+      "explanation": "This is question 179.",
+      "targetLocation": {
+        "lat": 89.0,
+        "lon": -1.0
+      }
+    },
+    {
+      "id": "q180",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #180",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 180.",
+      "targetLocation": {
+        "lat": -90.0,
+        "lon": 0.0
+      }
+    },
+    {
+      "id": "q181",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #181",
+      "correctAnswer": "false",
+      "explanation": "This is question 181.",
+      "targetLocation": {
+        "lat": -89.0,
+        "lon": 1.0
+      }
+    },
+    {
+      "id": "q182",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #182",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 182.",
+      "targetLocation": {
+        "lat": -88.0,
+        "lon": 2.0
+      }
+    },
+    {
+      "id": "q183",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #183",
+      "correctAnswer": "false",
+      "explanation": "This is question 183.",
+      "targetLocation": {
+        "lat": -87.0,
+        "lon": 3.0
+      }
+    },
+    {
+      "id": "q184",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #184",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 184.",
+      "targetLocation": {
+        "lat": -86.0,
+        "lon": 4.0
+      }
+    },
+    {
+      "id": "q185",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #185",
+      "correctAnswer": "false",
+      "explanation": "This is question 185.",
+      "targetLocation": {
+        "lat": -85.0,
+        "lon": 5.0
+      }
+    },
+    {
+      "id": "q186",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #186",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 186.",
+      "targetLocation": {
+        "lat": -84.0,
+        "lon": 6.0
+      }
+    },
+    {
+      "id": "q187",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #187",
+      "correctAnswer": "false",
+      "explanation": "This is question 187.",
+      "targetLocation": {
+        "lat": -83.0,
+        "lon": 7.0
+      }
+    },
+    {
+      "id": "q188",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #188",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 188.",
+      "targetLocation": {
+        "lat": -82.0,
+        "lon": 8.0
+      }
+    },
+    {
+      "id": "q189",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #189",
+      "correctAnswer": "false",
+      "explanation": "This is question 189.",
+      "targetLocation": {
+        "lat": -81.0,
+        "lon": 9.0
+      }
+    },
+    {
+      "id": "q190",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #190",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 190.",
+      "targetLocation": {
+        "lat": -80.0,
+        "lon": 10.0
+      }
+    },
+    {
+      "id": "q191",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #191",
+      "correctAnswer": "false",
+      "explanation": "This is question 191.",
+      "targetLocation": {
+        "lat": -79.0,
+        "lon": 11.0
+      }
+    },
+    {
+      "id": "q192",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #192",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 192.",
+      "targetLocation": {
+        "lat": -78.0,
+        "lon": 12.0
+      }
+    },
+    {
+      "id": "q193",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #193",
+      "correctAnswer": "false",
+      "explanation": "This is question 193.",
+      "targetLocation": {
+        "lat": -77.0,
+        "lon": 13.0
+      }
+    },
+    {
+      "id": "q194",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #194",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 194.",
+      "targetLocation": {
+        "lat": -76.0,
+        "lon": 14.0
+      }
+    },
+    {
+      "id": "q195",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #195",
+      "correctAnswer": "false",
+      "explanation": "This is question 195.",
+      "targetLocation": {
+        "lat": -75.0,
+        "lon": 15.0
+      }
+    },
+    {
+      "id": "q196",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #196",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 196.",
+      "targetLocation": {
+        "lat": -74.0,
+        "lon": 16.0
+      }
+    },
+    {
+      "id": "q197",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #197",
+      "correctAnswer": "false",
+      "explanation": "This is question 197.",
+      "targetLocation": {
+        "lat": -73.0,
+        "lon": 17.0
+      }
+    },
+    {
+      "id": "q198",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #198",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 198.",
+      "targetLocation": {
+        "lat": -72.0,
+        "lon": 18.0
+      }
+    },
+    {
+      "id": "q199",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #199",
+      "correctAnswer": "false",
+      "explanation": "This is question 199.",
+      "targetLocation": {
+        "lat": -71.0,
+        "lon": 19.0
+      }
+    },
+    {
+      "id": "q200",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #200",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 200.",
+      "targetLocation": {
+        "lat": -70.0,
+        "lon": 20.0
+      }
+    },
+    {
+      "id": "q201",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #201",
+      "correctAnswer": "false",
+      "explanation": "This is question 201.",
+      "targetLocation": {
+        "lat": -69.0,
+        "lon": 21.0
+      }
+    },
+    {
+      "id": "q202",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #202",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 202.",
+      "targetLocation": {
+        "lat": -68.0,
+        "lon": 22.0
+      }
+    },
+    {
+      "id": "q203",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #203",
+      "correctAnswer": "false",
+      "explanation": "This is question 203.",
+      "targetLocation": {
+        "lat": -67.0,
+        "lon": 23.0
+      }
+    },
+    {
+      "id": "q204",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #204",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 204.",
+      "targetLocation": {
+        "lat": -66.0,
+        "lon": 24.0
+      }
+    },
+    {
+      "id": "q205",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #205",
+      "correctAnswer": "false",
+      "explanation": "This is question 205.",
+      "targetLocation": {
+        "lat": -65.0,
+        "lon": 25.0
+      }
+    },
+    {
+      "id": "q206",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #206",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 206.",
+      "targetLocation": {
+        "lat": -64.0,
+        "lon": 26.0
+      }
+    },
+    {
+      "id": "q207",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #207",
+      "correctAnswer": "false",
+      "explanation": "This is question 207.",
+      "targetLocation": {
+        "lat": -63.0,
+        "lon": 27.0
+      }
+    },
+    {
+      "id": "q208",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #208",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 208.",
+      "targetLocation": {
+        "lat": -62.0,
+        "lon": 28.0
+      }
+    },
+    {
+      "id": "q209",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #209",
+      "correctAnswer": "false",
+      "explanation": "This is question 209.",
+      "targetLocation": {
+        "lat": -61.0,
+        "lon": 29.0
+      }
+    },
+    {
+      "id": "q210",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #210",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 210.",
+      "targetLocation": {
+        "lat": -60.0,
+        "lon": 30.0
+      }
+    },
+    {
+      "id": "q211",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #211",
+      "correctAnswer": "false",
+      "explanation": "This is question 211.",
+      "targetLocation": {
+        "lat": -59.0,
+        "lon": 31.0
+      }
+    },
+    {
+      "id": "q212",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #212",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 212.",
+      "targetLocation": {
+        "lat": -58.0,
+        "lon": 32.0
+      }
+    },
+    {
+      "id": "q213",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #213",
+      "correctAnswer": "false",
+      "explanation": "This is question 213.",
+      "targetLocation": {
+        "lat": -57.0,
+        "lon": 33.0
+      }
+    },
+    {
+      "id": "q214",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #214",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 214.",
+      "targetLocation": {
+        "lat": -56.0,
+        "lon": 34.0
+      }
+    },
+    {
+      "id": "q215",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #215",
+      "correctAnswer": "false",
+      "explanation": "This is question 215.",
+      "targetLocation": {
+        "lat": -55.0,
+        "lon": 35.0
+      }
+    },
+    {
+      "id": "q216",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #216",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 216.",
+      "targetLocation": {
+        "lat": -54.0,
+        "lon": 36.0
+      }
+    },
+    {
+      "id": "q217",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #217",
+      "correctAnswer": "false",
+      "explanation": "This is question 217.",
+      "targetLocation": {
+        "lat": -53.0,
+        "lon": 37.0
+      }
+    },
+    {
+      "id": "q218",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #218",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 218.",
+      "targetLocation": {
+        "lat": -52.0,
+        "lon": 38.0
+      }
+    },
+    {
+      "id": "q219",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #219",
+      "correctAnswer": "false",
+      "explanation": "This is question 219.",
+      "targetLocation": {
+        "lat": -51.0,
+        "lon": 39.0
+      }
+    },
+    {
+      "id": "q220",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #220",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 220.",
+      "targetLocation": {
+        "lat": -50.0,
+        "lon": 40.0
+      }
+    },
+    {
+      "id": "q221",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #221",
+      "correctAnswer": "false",
+      "explanation": "This is question 221.",
+      "targetLocation": {
+        "lat": -49.0,
+        "lon": 41.0
+      }
+    },
+    {
+      "id": "q222",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #222",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 222.",
+      "targetLocation": {
+        "lat": -48.0,
+        "lon": 42.0
+      }
+    },
+    {
+      "id": "q223",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #223",
+      "correctAnswer": "false",
+      "explanation": "This is question 223.",
+      "targetLocation": {
+        "lat": -47.0,
+        "lon": 43.0
+      }
+    },
+    {
+      "id": "q224",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #224",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 224.",
+      "targetLocation": {
+        "lat": -46.0,
+        "lon": 44.0
+      }
+    },
+    {
+      "id": "q225",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #225",
+      "correctAnswer": "false",
+      "explanation": "This is question 225.",
+      "targetLocation": {
+        "lat": -45.0,
+        "lon": 45.0
+      }
+    },
+    {
+      "id": "q226",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #226",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 226.",
+      "targetLocation": {
+        "lat": -44.0,
+        "lon": 46.0
+      }
+    },
+    {
+      "id": "q227",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #227",
+      "correctAnswer": "false",
+      "explanation": "This is question 227.",
+      "targetLocation": {
+        "lat": -43.0,
+        "lon": 47.0
+      }
+    },
+    {
+      "id": "q228",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #228",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 228.",
+      "targetLocation": {
+        "lat": -42.0,
+        "lon": 48.0
+      }
+    },
+    {
+      "id": "q229",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #229",
+      "correctAnswer": "false",
+      "explanation": "This is question 229.",
+      "targetLocation": {
+        "lat": -41.0,
+        "lon": 49.0
+      }
+    },
+    {
+      "id": "q230",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #230",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 230.",
+      "targetLocation": {
+        "lat": -40.0,
+        "lon": 50.0
+      }
+    },
+    {
+      "id": "q231",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #231",
+      "correctAnswer": "false",
+      "explanation": "This is question 231.",
+      "targetLocation": {
+        "lat": -39.0,
+        "lon": 51.0
+      }
+    },
+    {
+      "id": "q232",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #232",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 232.",
+      "targetLocation": {
+        "lat": -38.0,
+        "lon": 52.0
+      }
+    },
+    {
+      "id": "q233",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #233",
+      "correctAnswer": "false",
+      "explanation": "This is question 233.",
+      "targetLocation": {
+        "lat": -37.0,
+        "lon": 53.0
+      }
+    },
+    {
+      "id": "q234",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #234",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 234.",
+      "targetLocation": {
+        "lat": -36.0,
+        "lon": 54.0
+      }
+    },
+    {
+      "id": "q235",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #235",
+      "correctAnswer": "false",
+      "explanation": "This is question 235.",
+      "targetLocation": {
+        "lat": -35.0,
+        "lon": 55.0
+      }
+    },
+    {
+      "id": "q236",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #236",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 236.",
+      "targetLocation": {
+        "lat": -34.0,
+        "lon": 56.0
+      }
+    },
+    {
+      "id": "q237",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #237",
+      "correctAnswer": "false",
+      "explanation": "This is question 237.",
+      "targetLocation": {
+        "lat": -33.0,
+        "lon": 57.0
+      }
+    },
+    {
+      "id": "q238",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #238",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 238.",
+      "targetLocation": {
+        "lat": -32.0,
+        "lon": 58.0
+      }
+    },
+    {
+      "id": "q239",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #239",
+      "correctAnswer": "false",
+      "explanation": "This is question 239.",
+      "targetLocation": {
+        "lat": -31.0,
+        "lon": 59.0
+      }
+    },
+    {
+      "id": "q240",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #240",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 240.",
+      "targetLocation": {
+        "lat": -30.0,
+        "lon": 60.0
+      }
+    },
+    {
+      "id": "q241",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #241",
+      "correctAnswer": "false",
+      "explanation": "This is question 241.",
+      "targetLocation": {
+        "lat": -29.0,
+        "lon": 61.0
+      }
+    },
+    {
+      "id": "q242",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #242",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 242.",
+      "targetLocation": {
+        "lat": -28.0,
+        "lon": 62.0
+      }
+    },
+    {
+      "id": "q243",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #243",
+      "correctAnswer": "false",
+      "explanation": "This is question 243.",
+      "targetLocation": {
+        "lat": -27.0,
+        "lon": 63.0
+      }
+    },
+    {
+      "id": "q244",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #244",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 244.",
+      "targetLocation": {
+        "lat": -26.0,
+        "lon": 64.0
+      }
+    },
+    {
+      "id": "q245",
+      "type": "true-false",
+      "difficulty": "hard",
+      "category": "fun-facts",
+      "question": "True or false question #245",
+      "correctAnswer": "false",
+      "explanation": "This is question 245.",
+      "targetLocation": {
+        "lat": -25.0,
+        "lon": 65.0
+      }
+    },
+    {
+      "id": "q246",
+      "type": "multiple-choice",
+      "difficulty": "easy",
+      "category": "capitals",
+      "question": "Geography question #246",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 246.",
+      "targetLocation": {
+        "lat": -24.0,
+        "lon": 66.0
+      }
+    },
+    {
+      "id": "q247",
+      "type": "true-false",
+      "difficulty": "medium",
+      "category": "fun-facts",
+      "question": "True or false question #247",
+      "correctAnswer": "false",
+      "explanation": "This is question 247.",
+      "targetLocation": {
+        "lat": -23.0,
+        "lon": 67.0
+      }
+    },
+    {
+      "id": "q248",
+      "type": "multiple-choice",
+      "difficulty": "hard",
+      "category": "geographic-regions",
+      "question": "Geography question #248",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 248.",
+      "targetLocation": {
+        "lat": -22.0,
+        "lon": 68.0
+      }
+    },
+    {
+      "id": "q249",
+      "type": "true-false",
+      "difficulty": "easy",
+      "category": "fun-facts",
+      "question": "True or false question #249",
+      "correctAnswer": "false",
+      "explanation": "This is question 249.",
+      "targetLocation": {
+        "lat": -21.0,
+        "lon": 69.0
+      }
+    },
+    {
+      "id": "q250",
+      "type": "multiple-choice",
+      "difficulty": "medium",
+      "category": "rivers",
+      "question": "Geography question #250",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A",
+      "explanation": "This is question 250.",
+      "targetLocation": {
+        "lat": -20.0,
+        "lon": 70.0
+      }
+    }
+  ]
+}
