@@ -20,8 +20,6 @@ const nextConfig = {
 
     return config;
   },
-  // Enable static exports where possible
-  output: 'standalone',
 
   // Environment variables available to the client
   env: {
